@@ -8,4 +8,4 @@ Repository for educational purpose only.
 
 # LDTS project
 - [Project](project/docs/README.md) 
-- <b>Project Grade:</b> 14 (Missing MVC & TDD)
+- __Project Grade:__ 14 (Missing MVC & TDD)
