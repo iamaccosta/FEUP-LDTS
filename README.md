@@ -6,6 +6,6 @@ Repository for educational purpose only.
 - <b>Year:</b> 1st Semester of 2nd Year
 - <b>My Grade:</b> 14 
 
-# LDTS project
+## LDTS project
 - [Project](project/docs/README.md) 
 - __Project Grade:__ 14 (Missing MVC & TDD)
